@@ -1,2 +1,2 @@
-Led Controller [Android]
+Led Controller
 ===============
